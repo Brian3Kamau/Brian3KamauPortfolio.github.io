@@ -114,6 +114,7 @@ body {
 }
 
 /* ========Work-Section======== */
+
 .work-section-container {
   display: flex;
   flex-direction: column;
@@ -533,6 +534,7 @@ body {
 }
 
 /* ========Media Queries Desktop Version Design======== */
+
 @media only screen and (min-width: 768px) {
   /* ========Navbar======== */
   .top-nav {
@@ -556,10 +558,6 @@ body {
   a {
     text-decoration: none;
   }
-
-  /* .desktop-navlink-a:hover {
-    border: 2px solid #6070ff;
-  } */
 
   .Hamburger-icon {
     display: none;
@@ -604,11 +602,14 @@ body {
     margin-left: 20%;
     width: 8%;
   }
+
   /* ========Work-section======== */
+
   .work-section-container {
     width: 100%;
     align-items: center;
   }
+
   .work-sect-2,
   .work-sect-3,
   .work-sect-4,
@@ -749,6 +750,7 @@ body {
     align-items: center;
     justify-content: center;
   }
+
   /* ========Contact-me-section======== */
 
   .contact-me-container {
