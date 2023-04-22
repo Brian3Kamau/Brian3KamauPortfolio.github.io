@@ -37,7 +37,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Click here for live video Demo](https://brian3kamau.github.io/)
+- [Click here for live Demo](https://brian3kamau.github.io/Brian3KamauPortfolio.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
