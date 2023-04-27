@@ -9,8 +9,6 @@ body {
   width: 375px;
   max-width: 100%;
   position: fixed;
-
-  /* justify-content: space-around; */
   justify-content: space-evenly;
   align-items: center;
   margin-top: -1%;
@@ -23,19 +21,18 @@ body {
   font-size: 18px;
   text-decoration: none;
   color: #6070ff;
-  margin-left: -25%;
+  margin-left: -45%;
 }
 
 .my-logo:hover {
   border: 2px solid #6070ff;
 }
 
+.hamburger-a,
 .Hamburger-icon {
   height: 25px;
   width: 25px;
-  margin-left: 300%;
-
-  /* align-self: flex-end; */
+  margin-right: -48%;
 }
 
 .Hamburger-icon:hover {
